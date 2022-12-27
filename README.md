@@ -1,3 +1,5 @@
+I no longer use this project and do not maintain the code.
+
 # metalsmith-metafiles [![Build Status](https://travis-ci.org/Ajedi32/metalsmith-metafiles.svg)](https://travis-ci.org/Ajedi32/metalsmith-metafiles)
 
 A [Metalsmith][metalsmith] plugin to read file metadata from separate files (as
